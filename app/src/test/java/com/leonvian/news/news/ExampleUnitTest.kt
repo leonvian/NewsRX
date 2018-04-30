@@ -1,4 +1,4 @@
-package news.leonvian.com.news
+package com.leonvian.news.news
 
 import org.junit.Test
 

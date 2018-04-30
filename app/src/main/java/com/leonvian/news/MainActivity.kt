@@ -1,7 +1,8 @@
-package news.leonvian.com.news
+package com.leonvian.news
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.leonvian.news.news.R
 
 class MainActivity : AppCompatActivity() {
 
